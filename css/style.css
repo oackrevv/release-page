@@ -94,9 +94,8 @@ canvas {
     background-color: rgba(0, 0, 0, 0.03); /* 悬停时添加轻微背景色 */
 }
 
-.main-address {
-    background-color: transparent; /* 移除主地址的背景色 */
-    border-color: #e9ecef; /* 保持与其他卡片相同的边框颜色 */
+.address-section img {
+    max-width: 100%;
 }
 
 .address-card .card-info {
